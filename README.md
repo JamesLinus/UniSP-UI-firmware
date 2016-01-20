@@ -1,2 +1,2 @@
-# UniSP-UI-software
-User Interface for UniSP - software
+# UniSP-UI-firmware
+User Interface for UniSP - firmware
